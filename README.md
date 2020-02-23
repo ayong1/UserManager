@@ -1,21 +1,14 @@
-# vcustomers
+# User management system
 
-> A Vue.js project
+> User management system
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+#
+# 简单的后台用户管理系统，仅作为参考，本Demo用vue-cli2.0搭建
+# 后台主要是 json-server 搭建，简单模拟后台数据
+#
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+I hope to share more with you and make progress together.
